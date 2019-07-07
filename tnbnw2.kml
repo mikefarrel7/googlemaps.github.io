@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Taman Nasional Bogani Nani Wartabone</name>
+    <description>Taman Nasional Bogani Nani Wartabone</description>
+    <NetworkLink>
+      <name>Taman Nasional Bogani Nani Wartabone</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1-SLAcAww5ha8VfKrLkK0W-Tw5SXIpGjm]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
